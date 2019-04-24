@@ -10,6 +10,6 @@
 
 前端网站是用jsp写的，后端传递参数、调用python模型运行的结果。
 
-<img src="https://github.com/xchadesi/ML_Project/tree/master/FoolAlgorithm/lgo.png" />
+<img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/lgo.png" />
 
 
