@@ -8,6 +8,6 @@
 2、数据特征选择；<br>
 3、结果预测；<br>
 
-<div align=center ><img src="https://github.com/xchadesi/ML_Project/tree/master/FoolAlgorithm/lgo.png" height=300, width=500/></div>
+<img src="https://github.com/xchadesi/ML_Project/tree/master/FoolAlgorithm/lgo.png" height=300, width=500/>
 
 
