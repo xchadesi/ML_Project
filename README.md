@@ -13,7 +13,7 @@
 后端模型设置了如下几种算法：MLPC、AdaBoost、LR、RF、SVM、GBDT、Bagging、KNN、DT、GNB等。<br>
 
 <img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/lgo.png" height=300, width=600/>
-<img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/11.PNG" height=300, width=600/>
+<img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/11.png" height=300, width=600/>
 <img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/22.png" height=300, width=600/>
 <img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/33.png" height=300, width=600/>
 <img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/44.png" height=300, width=600/>
