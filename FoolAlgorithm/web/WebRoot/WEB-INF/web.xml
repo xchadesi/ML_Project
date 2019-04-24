@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  
+  <servlet>
+    <display-name>ExampleService</display-name>
+    <servlet-name>ExampleService</servlet-name>
+    <servlet-class>com.service.ExampleService</servlet-class>
+  </servlet>
+  
+  <servlet>
+    <display-name>LoginService</display-name>
+    <servlet-name>LoginService</servlet-name>
+    <servlet-class>com.service.LoginService</servlet-class>
+  </servlet>
+  <servlet>
+  
+    <display-name>JobService</display-name>
+    <servlet-name>JobService</servlet-name>
+    <servlet-class>com.service.JobService</servlet-class>
+  </servlet>
+  <servlet>
+  
+    <display-name>RegisterService</display-name>
+    <servlet-name>RegisterService</servlet-name>
+    <servlet-class>com.service.RegisterService</servlet-class>
+  </servlet>
+  <servlet>
+    <display-name>WaitResult</display-name>
+    <servlet-name>WaitResult</servlet-name>
+    <servlet-class>com.action.WaitResult</servlet-class>
+  </servlet>
+  <servlet>
+    <display-name>ResultDownload</display-name>
+    <servlet-name>ResultDownload</servlet-name>
+    <servlet-class>com.action.ResultDownload</servlet-class>
+  </servlet>
+  <servlet>
+    <display-name>AlgorithmUpload</display-name>
+    <servlet-name>AlgorithmUpload</servlet-name>
+    <servlet-class>com.action.AlgorithmUpload</servlet-class>
+  </servlet>
+  <servlet>
+    <display-name>DimUpload</display-name>
+    <servlet-name>DimUpload</servlet-name>
+    <servlet-class>com.action.DimUpload</servlet-class>
+  </servlet>
+  <servlet>
+    <display-name>PerdictUpload</display-name>
+    <servlet-name>PerdictUpload</servlet-name>
+    <servlet-class>com.action.PerdictUpload</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>DisplayChart</servlet-name>
+    <servlet-class>org.jfree.chart.servlet.DisplayChart</servlet-class>
+  </servlet>
+  
+  
+  <servlet-mapping>
+    <servlet-name>ExampleService</servlet-name>
+    <url-pattern>/ExampleService</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>LoginService</servlet-name>
+    <url-pattern>/LoginService</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JobService</servlet-name>
+    <url-pattern>/JobService</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RegisterService</servlet-name>
+    <url-pattern>/RegisterService</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WaitResult</servlet-name>
+    <url-pattern>/FoolAlgorithm/WaitResult</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DisplayChart</servlet-name>
+    <url-pattern>/DisplayChart</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ResultDownload</servlet-name>
+    <url-pattern>/FoolAlgorithm/ResultDownload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PerdictUpload</servlet-name>
+    <url-pattern>/FoolAlgorithm/PerdictUpload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DimUpload</servlet-name>
+    <url-pattern>/FoolAlgorithm/DimUpload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AlgorithmUpload</servlet-name>
+    <url-pattern>/FoolAlgorithm/AlgorithmUpload</url-pattern>
+  </servlet-mapping>
+  <display-name></display-name>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>

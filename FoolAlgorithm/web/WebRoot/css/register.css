@@ -1,0 +1,155 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  background-color: #659AEE;
+  font-size: 10px;
+}
+
+body {
+  background-image: linear-gradient(0deg, transparent 24%, rgba(32, 255, 77, 0.15) 25%, rgba(32, 255, 77, 0.15) 26%, transparent 27%, transparent 74%, rgba(32, 255, 77, 0.15) 75%, rgba(32, 255, 77, 0.15) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(32, 255, 77, 0.15) 25%, rgba(32, 255, 77, 0.15) 26%, transparent 27%, transparent 74%, rgba(32, 255, 77, 0.15) 75%, rgba(32, 255, 77, 0.15) 76%, transparent 77%, transparent);
+  background-size: 7rem 7rem;
+  background-position: -5.2rem -5.2rem;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.register_img
+{
+	float:left;
+	margin-top:30px;
+    margin-left:10%;
+}
+
+.Register_body
+{
+	margin-left:60%;
+	margin-top:30px;
+	width:480px;
+	height:500px;
+	background:#FFFFFF;
+	border:2px solid #F0F0F0;
+}
+
+.Register_header
+{
+	margin-left:4%;
+	margin-top:30px;
+	width:450px;
+	height:35px;
+	float:left;
+	text-align:center;
+}
+
+.font_style2
+{
+	font-size:32px;
+	font-weight:bold;
+	color:#619FE4;
+	font-family:"YouYuan";
+}
+
+.register-info
+{
+	margin-top:110px;
+	width:400px;
+	height:350px;
+}
+
+.user-info ul li 
+{
+	 list-style:none;
+	 height:45px;
+	 line-height:40px;
+}
+
+.user-info ul li a,.user-info ul li a:hover
+{
+	font-size:12px;
+	color:#21428C;
+}
+
+.user-info ul li span
+{
+	 display:block;
+	 text-align:right;
+	 width:100px;
+	 float:left;
+}
+
+.user-name,.email,.main-password,.password-agin
+{
+	margin-left:25px;
+	height:35px;
+	 width:230px;
+	 border:1px solid #DDDDDD;
+}
+
+.code
+{
+	margin-left:25px;
+	height:35px;
+    width:100px;
+    border:1px solid #DDDDDD;
+}
+
+.provision
+{
+	font-size:12px;
+	width:300px;
+	
+}
+.provision_item
+{
+	margin-left:150px;
+	height:20px;
+	width:300px;
+}
+
+.provision_item span
+{
+	width:400px;
+}
+
+.next-btn
+{
+	margin-top:50px;
+	margin-left:130px;
+}
+
+.next-step
+{
+	width:200px;
+	height:30px;
+	background:#619FE4;
+	color:#FFFFFF;
+	font-size:16px;
+}
+
+.tooltip-info
+{
+	margin-top:20px;
+	margin-left:20px;
+	width:220px;
+	height:30px;
+	color:#DC3C00;
+}
+
+.mess_error
+{
+	margin-top:10px;
+	text-align:center;
+}
+
+.fnt_style
+{
+	font-size:16px;
+	color:red;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}

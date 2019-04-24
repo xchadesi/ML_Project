@@ -1,0 +1,333 @@
+.tijiao_submmit
+{
+	text-align:center;
+}
+
+.example_logging
+{
+	width: 100px;
+	height:30px;
+}
+
+.example_title
+{
+	width: 100%;
+	height:40px;
+}
+
+.fb_job
+{
+	width: 78%;
+    margin-top: 10px;
+    margin-left: 11%;
+    float:left;
+}
+.header_jobInfo
+{
+	width: 78%;
+    margin-top: 30px;
+    margin-left: 11%;
+    float:left;
+}
+
+.header_jobInfo a
+{
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	font-size: 16px; 
+	color:#FFFFFF;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.DA_jobInfo
+{
+	width: 80%;
+    margin-top: 0px;
+    margin-left: 10%;
+    float:left;
+}
+
+.jobinfo_foot
+{
+	width: 100%;
+	height:50px;
+	float:left;
+}
+
+.DA_job
+{
+	width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+    float:left;
+}
+
+.example
+{
+	width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+    float:left;
+}
+
+.page
+{
+	margin-left:78%;
+	margin-top:20px;
+	margin-bottom:20px;
+	width:22%;
+	float:left;
+	font-size:40px;
+	text-align:right;
+}
+
+.page1
+{   
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	height:40px;
+	float:left;
+	color: black;
+	line-height:40px;
+	margin-left:3px;
+}
+
+.page2
+{   
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	height:40px;
+	margin-left:3px;
+	line-height:60px;
+	float:left;
+	font-size:18px;
+	color:#FFFFFF;
+}
+
+.page3
+{   
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	height:40px;
+	float:left;
+	margin-left:3px;
+	line-height:40px;
+}
+
+.page4
+{   
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	height:40px;
+	float:left;
+	margin-left:3px;
+	line-height:40px;
+}
+
+.page5
+{   
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	height:40px;
+	float:left;
+	margin-left:3px;
+	line-height:40px;
+}
+
+.page6
+{   
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	height:40px;
+	float:left;
+	margin-left:3px;
+	line-height:40px;
+}
+
+.page1 a,.page2 a,.page3 a,.page4 a,.page5 a,.page6 a
+{
+	
+	text-decoration:none;
+	color:#FFFFFF;
+	font-size: 20px; 
+}
+
+.job
+{
+	margin-left:2%;
+	margin-top:1px;
+	width:97%;
+	float:left;
+	background:white;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	font-size: 14px; 
+}
+
+.time
+{
+	margin-left:16px;
+	width:15%;
+	float:left;
+	line-height:40px;
+	height:40px;
+}
+
+.job_title
+{
+	width:66%;
+	float:left;
+	line-height:40px;
+	height:40px;
+}
+
+.job_title a
+{
+	font-size: 14px; 
+}
+
+.job_href
+{
+	width:5%;
+	float:right;
+	line-height:20px;
+	height:20px;
+	text-align:center;
+	background:#619FE4;
+	margin-top:10px;
+	margin-right:5%;
+	margin-bottom:5px;
+}
+
+.job_href a,.job_href a:hover
+{
+	color:#FFFFFF;
+	text-decoration:none;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	font-size: 14px; 
+}
+
+.jobinfo
+{
+	margin-top:10px;
+	margin-left:2%;
+	width:96%;
+	float:left;
+	line-height:40px;
+	background:#659AEE;
+	border-top:1px solid #EEEEEE;
+}
+
+.jobinfo_style
+{
+	margin-top:10px;
+	margin-left:2%;
+	width:100%;
+	float:left;
+}
+
+.jobinfo_title
+{
+	font-size: 20px;
+	color:#111;
+	font-weight:bold;
+	text-align:center;
+}
+
+.job_info_title
+{
+	font-size: 20px;
+	color:#000000;
+}
+
+.jobinfo_head
+{
+	margin-left:5px;
+	margin-top:20px;
+	width:96%;
+	float:left;
+	line-height:20px;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}
+
+.jobinfo_head a
+{
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	color:#FF7D00;
+	font-size: 18px;
+}
+
+.jobinfo_href
+{
+	font-size: 14px;
+}
+
+.jobinf_title
+{
+	color:black;
+	font-size: 14px;
+}
+
+.jobinfo1
+{
+	margin-left:2%;
+	margin-top:10px;
+}
+
+.jobjobinfo
+{
+	margin-left:2%;
+	margin-top:10px;
+	width:96%;
+	float:left;
+	background:#F9F9F9;
+	border:1px solid #EEEEEE;
+}
+
+.jobinfo2
+{
+	margin-left:6%;
+	margin-top:5px;
+	width:90%;
+	float:left;
+	line-height:25px;
+}
+
+.jobinfo_content
+{
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	color:#0184C3;
+	font-size: 16px;
+}
+
+.job_head_choose
+{
+	margin-left:2%;
+	margin-top:5px;
+	margin-bottom:5px;
+	width:97%;
+	float:left;
+	height:30px;
+	background:#F9F9F9;
+	color:#0184C3;
+	font-size: 14px;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}
+
+.job_choose
+{
+	margin-left:1%;
+	line-height:30px;
+	width:15%;
+	float:left;
+	text-align:center;
+}
+
+.job_chose
+{
+	margin-left:1%;
+	line-height:30px;
+	width:25%;
+	float:left;
+	text-align:center;
+}
+
+.job_choose a
+{
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+	color:#0184C3;
+	font-size: 14px;
+}

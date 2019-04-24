@@ -1,0 +1,147 @@
+body
+{
+ margin:auto;
+ font-size:16px;
+}
+
+.header_login
+{
+    margin-top:0;
+	background:#FFFFFF;
+}
+
+.forget-password
+{
+	margin-top:20px;
+	margin-left:10%;
+	
+}
+
+.forget-pwd
+{
+	margin-left:65%;
+}
+
+.rememberMe
+{
+	color:#BCBCBC;
+	font-size:13px;
+	font-weight:bold;
+}
+
+.forget-pwd a,.forget-pwd a:hover
+{
+	font-size:12px;
+	color:#21428C;
+}
+
+.login_img
+{
+	float:left;
+	margin-top:2%;
+    margin-left:10%;
+}
+
+.login_part
+{
+	margin-left:25%;
+	margin-top:80px;
+	width:300px;
+	height:350px;
+	background:#FFFFFF;
+	float:left;
+}
+
+.login_part p
+{   
+	margin-top:30px;
+	font-size:13px;
+	margin-left:10%;
+	color:#666666;
+}
+
+.user-name
+{
+	margin-top:20px;
+	margin-left:10%;
+	width:230px;
+	height:35px;
+	background-image:url("../image/suo.png");	
+	backgroud-repeat:no-repeat;
+}
+
+.user-name input
+{
+	width:205px;
+	height:35px;
+	float:right;
+	border:none;
+    outline:medium;
+    font-size:14px;
+}
+
+.pass-word
+{
+	margin-top:20px;
+	margin-left:10%;
+	width:230px;
+	height:35px;
+	background:#FEFEFE;	
+	background-image:url("../image/yaoshi.png");
+}
+
+.pass-word input
+{
+	width:205px;
+	height:35px;
+	float:right;
+	border:none;
+    outline:medium;
+    font-size:14px;
+}
+
+.error-mess
+{
+	text-align:center;
+}
+.logging
+{
+	margin-top:20px;
+	margin-left:10%;
+	background:#619FE4;	
+	width:230px;
+	height:35px;
+	font-size:16px;
+	color:#FFFFFF;
+	border:1px #ff0000 solid;
+}
+
+.forget-pwd a,.forget-pwd a:hover
+{
+	font-size:12px;
+	color:#21428C;
+}
+
+.user-pass
+{
+	border-bottom:1px solid #EEEEEE;
+}
+
+.register-now
+{
+	font-size:13px;
+	color:#666666;
+	margin-top:10px;
+	margin-left:10%;
+}
+
+.register
+{
+	margin-left:15px;
+}
+
+.font_sty{
+    font-size:16px;
+	color:red;
+	font-family:"\5FAE\8F6F\96C5\9ED1";
+}
