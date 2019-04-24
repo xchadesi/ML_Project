@@ -8,6 +8,8 @@
 2、数据特征选择；<br>
 3、结果预测；<br>
 
-<img src="https://github.com/xchadesi/ML_Project/tree/master/FoolAlgorithm/lgo.png" height=300, width=500/>
+前端网站是用jsp写的，后端传递参数、调用python模型运行的结果。
+
+<img src="https://github.com/xchadesi/ML_Project/tree/master/FoolAlgorithm/lgo.png" />
 
 
