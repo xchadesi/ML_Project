@@ -7,6 +7,6 @@
 1、算法参数调节；<br>
 2、数据特征选择；<br>
 3、结果预测；<br>
-<div align=center><img src="https://github.com/xchadesi/ML_Project/tree/master/FoolAlgorithm/logo.PNG"/></div>
+<div align=center ><img src="https://github.com/xchadesi/ML_Project/tree/master/FoolAlgorithm/logo.PNG" height=300, weight=500/></div>
 
 
