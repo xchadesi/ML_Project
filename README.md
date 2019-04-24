@@ -20,3 +20,11 @@
 <img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/55.png" height=300, width=600/>
 <img src="https://github.com/xchadesi/ML_Project/blob/master/FoolAlgorithm/66.png" height=300, width=600/>
 
+## 二、ModelTools
+
+常用的工具模块，包括上面FoolAlgorithm中用到的一些数据预处理、分类模型等，还包括：<br>
+1、常用文本分析、textRank等；<br>
+2、数据库连接；<br>
+3、画图；<br>
+4、常用回归分析；<br>
+5、常用聚类等；<br>
